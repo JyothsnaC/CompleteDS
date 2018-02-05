@@ -1,10 +1,13 @@
 # Complete end to end implentation of data science project:
 Data Acquisition:
-Data can be acquired from internal,external sources in any organization.
+Data can be acquired from internal,external sources
 Examples of  Data source: Data reposotories,data from online repositories like US Census datasets,data logs from webservers, social media data,data streamed from online sources via APIs, web scraping and transformed data in forms of database tables
+Data acquisition from RDBMS,spark shell
+Data scquisition from unstructured flat files
 
 Data Preparation:
 Data cleaning followed by transformation
+1.
 
 Hypothesis and Modelling
 Model the data and train the data using training set
